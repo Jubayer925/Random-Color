@@ -1,2 +1,2 @@
 # Random-Color
-An simple iOS application that show a random color .
+A simple iOS application that show random colors .
